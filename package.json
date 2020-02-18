@@ -1,13 +1,25 @@
 {
-    "name": "@tomasz_fryc/ch_80311",
+  "name": "package.json",
   "version": "1.0.1",
   "description": "zaliczenie WSB",
-  "repository": "Tolo2000/ch_80311",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tolo2000/ch_80311.git"
+  },
   "main": "index.js",
   "keywords": [
     "WSB",
     "npm",
     "package",
     "exam"
-      ]
+  ],
+  "bugs": {
+    "url": "https://github.com/Tolo2000/ch_80311/issues"
+  },
+  "homepage": "https://github.com/Tolo2000/ch_80311#readme",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Tomasz Fryc",
+  "license": "MIT"
 }
